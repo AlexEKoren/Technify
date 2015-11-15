@@ -8,7 +8,12 @@ Here's a [demo](http://technify.herokuapp.com)
 An example of what I got from putting my Facebook profile picture through it.
 
 ## Setup
+```
 pip install -r requirements.txt
+```
 
 ## Running the app
-python app.py # runs on [http://localhost:5000](http://localhost:5000) by default.
+```
+python app.py
+```
+Runs on [http://localhost:5000](http://localhost:5000) by default.
